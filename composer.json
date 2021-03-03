@@ -1,0 +1,17 @@
+{
+    "name": "ntuanphuc/lucky-draw",
+    "description": "Lucky draw for friends",
+    "type": "project",
+    "license": "free",
+    "authors": [
+        {
+            "name": "Tuan Phuc",
+            "email": "ntuanphuc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": { "ntuanphuc\\LuckyDraw": "src/"}
+    },
+    "require": {}
+}
