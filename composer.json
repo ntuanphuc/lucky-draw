@@ -2,7 +2,7 @@
     "name": "ntuanphuc/lucky-draw",
     "description": "Lucky draw for friends",
     "type": "project",
-    "license": "free",
+    "license": "MIT",
     "authors": [
         {
             "name": "Tuan Phuc",
@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": { "ntuanphuc\\LuckyDraw": "src/"}
+        "psr-4": { "ntuanphuc\\LuckyDraw\\": "src/"}
     },
     "require": {}
 }
